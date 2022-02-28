@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-blog-index-js",
     "path": "/blog/",
-    "result": {"data":{"allMdx":{"nodes":[{"frontmatter":{"date":"July 25, 2021","title":"Yet Another Post"},"id":"fbf0c46e-d893-56e3-9ab2-d2e05173e0ff","slug":"yet-another-post"},{"frontmatter":{"date":"July 24, 2021","title":"Another Post"},"id":"518b1fb9-3ae6-5be0-a9a2-7ee4c71e4357","slug":"another-post"},{"frontmatter":{"date":"July 23, 2021","title":"My First Post"},"id":"b0448698-5f6c-5fa9-a67e-04a563e010d7","slug":"my-first-post"}]}},"pageContext":{}},
+    "result": {"data":{"allMdx":{"nodes":[{"frontmatter":{"date":"July 25, 2021","title":"Yet Another Post"},"id":"c37ef4ac-6f77-5793-9c26-45e9d8f6f4e5","slug":"yet-another-post/"},{"frontmatter":{"date":"July 24, 2021","title":"Another Post"},"id":"e25b32c1-940b-52e3-9222-26027f97eb5c","slug":"another-post/"},{"frontmatter":{"date":"July 23, 2021","title":"My First Post"},"id":"e9153f55-d73b-5efa-832d-9c7a6e52b100","slug":"my-first-post/"}]}},"pageContext":{}},
     "staticQueryHashes": ["161190708"]}
